@@ -13,5 +13,6 @@ Color scheme by Dracula: See https://draculatheme.com/i3 and https://draculathem
 
 simpledraculai3 screenshot bellow:
 
+![11111111111111111111111](https://user-images.githubusercontent.com/80711452/111205199-e3610980-85be-11eb-8253-d928ff2f22ca.png)
 
-(https://user-images.githubusercontent.com/80711452/111205046-b01e7a80-85be-11eb-96fd-b139e9022295.png)
+Wallpaper: https://www.deviantart.com/joeyjazz/art/SP-HighRise-791362545
