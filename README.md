@@ -20,3 +20,4 @@ Wallpaper: https://www.deviantart.com/joeyjazz/art/SP-HighRise-791362545
 Optional:
 File Manager: Ranger;
 Audio Visualizer Effects: Cava;
+DMenu;
