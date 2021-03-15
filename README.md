@@ -2,7 +2,7 @@
 
 My dotfiles for i3 / My simplistic take on Dracula's theme for i3
 
-Dependencies: nitrogen, picom, font: Hack, playerctl, i3status, termite;
+Dependencies: nitrogen, picom, font: Hack, playerctl, i3status, termite, dmenu;
 
 *includes modified keybindings, also playerctl binds for media keys;
 
@@ -20,4 +20,3 @@ Wallpaper: https://www.deviantart.com/joeyjazz/art/SP-HighRise-791362545
 Optional:
 File Manager: Ranger;
 Audio Visualizer Effects: Cava;
-DMenu;
